@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazing Barley", "Amazing Barley.csproj", "{398AD384-B9F2-4F6F-6CE8-718C91ABAFB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398AD384-B9F2-4F6F-6CE8-718C91ABAFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398AD384-B9F2-4F6F-6CE8-718C91ABAFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398AD384-B9F2-4F6F-6CE8-718C91ABAFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398AD384-B9F2-4F6F-6CE8-718C91ABAFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2667F53E-A632-4EDA-B5EF-1129D1796EBA}
+	EndGlobalSection
+EndGlobal

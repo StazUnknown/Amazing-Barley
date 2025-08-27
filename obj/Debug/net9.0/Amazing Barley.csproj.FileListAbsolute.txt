@@ -1,0 +1,96 @@
+C:\Users\Fabtech\VSCode\Amazing Barley\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Fabtech\VSCode\Amazing Barley\bin\Debug\net9.0\appsettings.json
+C:\Users\Fabtech\VSCode\Amazing Barley\bin\Debug\net9.0\Amazing Barley.staticwebassets.runtime.json
+C:\Users\Fabtech\VSCode\Amazing Barley\bin\Debug\net9.0\Amazing Barley.staticwebassets.endpoints.json
+C:\Users\Fabtech\VSCode\Amazing Barley\bin\Debug\net9.0\Amazing Barley.exe
+C:\Users\Fabtech\VSCode\Amazing Barley\bin\Debug\net9.0\Amazing Barley.deps.json
+C:\Users\Fabtech\VSCode\Amazing Barley\bin\Debug\net9.0\Amazing Barley.runtimeconfig.json
+C:\Users\Fabtech\VSCode\Amazing Barley\bin\Debug\net9.0\Amazing Barley.dll
+C:\Users\Fabtech\VSCode\Amazing Barley\bin\Debug\net9.0\Amazing Barley.pdb
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\Amazing Barley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\Amazing Barley.AssemblyInfoInputs.cache
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\Amazing Barley.AssemblyInfo.cs
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\Amazing Barley.csproj.CoreCompileInputs.cache
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\Amazing Barley.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\Amazing Barley.RazorAssemblyInfo.cache
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\Amazing Barley.RazorAssemblyInfo.cs
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\scopedcss\bundle\Amazing Barley.styles.css
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\scopedcss\projectbundle\Amazing Barley.bundle.scp.css
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\rqvasishao-b9sayid5wm.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\q8v54c8to7-61n19gt1b8.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\udf9h6y29k-xtxxf3hu2r.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\oju263ilxc-bqjiyaj88i.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\zowlbeodkb-c2jlpeoesf.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\2crfkg5fnv-erw9l3u2r3.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\2xciohayoa-aexeepp0ev.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\e30dca363l-d7shbmvgxk.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\axaravkeo9-ausgxo2sd3.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\p2wrtctnap-k8d9w2qqmf.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\tf8utg6zpr-cosvhxvwiu.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\wn4h6i1ydh-ub07r2b239.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\kjej0dtjby-fvhpjtyr6v.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\opb6cbshxe-b7pk76d08c.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\2eogqd62m4-fsbi9cje9m.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\om9hrkpyux-rzd6atqjts.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\f5aeai6m4p-ee0r1s7dh0.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\juqz63n27d-dxx9fxp4il.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\fjomvkt319-jd9uben2k1.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\gdz89n3h2k-khv3u5hwcm.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\5t0f3dvq3q-r4e9w2rdcm.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\rn0w4e9wsz-lcd1t2u6c8.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\kelj2pynl7-c2oey78nd0.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\eg2ywfrg6q-tdbxkamptv.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\twqwuim3t5-j5mq2jizvt.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\syob5t933o-06098lyss8.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\9azrfnj5e5-nvvlpmu67g.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\pitryd047y-s35ty4nyc5.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\cqk75y1q51-pj5nd1wqec.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\fejx1mm98e-46ein0sx1k.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\7y2nmb5x9h-v0zj4ognzu.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\3yxub3htw3-37tfw0ft22.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\9zv5oqqf35-hrwsygsryq.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\4rwbli4fpt-pk9g2wxc8p.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\ch78cmffei-ft3s53vfgj.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\yjdznc5g9i-6cfz1n2cew.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\xjs8sd4keu-6pdc2jztkx.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\gjc2vnvogl-493y06b0oq.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\uwgudehw7p-iovd86k7lj.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\f5ijhl22wg-vr1egmr9el.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\ey481z8nmp-kbrnm935zg.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\7r5zxrlt2b-jj8uyg4cgr.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\rtcsy96s1a-y7v9cxd14o.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\lsc45x0enq-notf2xhcfb.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\omhxk43wpb-h1s4sie4z3.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\5klheq7gum-63fj8s7r0e.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\m6768qivkx-0j3bgjxly4.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\yzqhxxg5op-47otxtyo56.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\n5k39ljd84-4v8eqarkd7.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\ymql81fg5g-356vix0kms.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\datufdhsvi-83jwlth58m.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\zzzjbv0y27-mrlpezrjn3.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\njy31f357c-lzl9nlhx6b.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\eevtjiqzdt-ag7o75518u.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\0hez81qmh2-x0q3zqp4vz.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\rrorzsqnji-0i3buxo5is.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\z0zrdero0w-o1o13a6vjx.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\dfv584jmch-ttgo8qnofa.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\g1bgjluf4f-2z0ns9nrw6.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\4y7cye4lc7-muycvpuwrr.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\ptecynzilx-87fc7y1x7t.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\jvpkd6zd4g-mlv21k5csn.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\gg4kkwn8g2-bwbx7hokep.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\compressed\4of7hjpgpa-bwbx7hokep.gz
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\Amazing Barley.dll
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\refint\Amazing Barley.dll
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\Amazing Barley.pdb
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\Amazing Barley.genruntimeconfig.cache
+C:\Users\Fabtech\VSCode\Amazing Barley\obj\Debug\net9.0\ref\Amazing Barley.dll
